@@ -1,6 +1,12 @@
 ## VerilogHDL Beginning codes collection
 ### About
 I am complete beginner when it comes to programming.This is just a record of my learning process with Verilog HDL.You can find the code you need in the table of contents.
+### Start
+Install Icarus Verilog:
+windows
+``winget install Icarus.Verilog``
+debain
+``sudo apt install iverilog``
 
 ### Testbench
 This is a simple testbench file
